@@ -67,6 +67,7 @@ user.grid(row=6, column=0, padx=150, pady=5, sticky=W)
 con = Button(root, text="موافق", width=8, font=("Arial", 20), bg="white", fg="black",command=osa)
 con.grid(row=7, column=0, padx=155, pady=5, sticky=W)
 
+
 root.resizable(False, False)
 root.config(bg='cyan4')
 root.mainloop()
