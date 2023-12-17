@@ -1,1 +1,1 @@
-# make-password
+print('Hallo that is my frist programe')
